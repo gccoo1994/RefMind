@@ -12,8 +12,7 @@
 <p align="center">
   <a href="#-核心特性">核心特性</a> •
   <a href="#-为什么选择-refmind">为什么选择 RefMind</a> •
-  <a href="#-快速开始">快速开始</a> •
-  <a href="#-参与贡献">参与贡献</a>
+  <a href="#-下载安装包体验">下载安装包体验</a>
 </p>
 
 <p align="center">
@@ -94,42 +93,11 @@
 
 ---
 
-## 快速开始
+## 下载安装包体验
 
-### 环境要求
+前往 [Releases](https://github.com/gccoo1994/RefMind/releases) 页面下载最新安装包，解压即可运行。
 
-- **Windows 10/11** (64-bit)
-
-### 安装
-
-> 详细安装指南即将上线。目前可通过源码构建运行：
-
-```bash
-git clone https://github.com/your-username/RefMind.git
-cd RefMind/refmind_flutter
-flutter pub get
-flutter run -d windows
-```
-
----
-
-## 参与贡献
-
-RefMind 仍处于活跃开发阶段，欢迎贡献！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 创建 Pull Request
-
----
-
-## 路线图
-
-- [ ] macOS 平台支持
-- [ ] 更多 AI 模型接入
-- [ ] 插件系统
+支持 **Windows 10/11 (64-bit)**。
 
 ---
 
